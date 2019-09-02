@@ -19,4 +19,4 @@
   {status: 'Cancelled', name: 'Aaron', total: 39, date: '04/05/2017'},
   {status: 'Cancelled', name: 'Pedro', total: 39, date: '04/05/2017'},
   {status: 'Cancelled', name: 'Catrina', total: 40, date: '04/05/2017'},
-];
+]
