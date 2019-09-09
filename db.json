@@ -5,7 +5,7 @@
             "status": "Approved",
             "name": "Melissa",
             "total": 1,
-            "date": "04/05/2017"
+            "date": "04/05/2019"
         },
         {
             "id": 1,
@@ -138,7 +138,16 @@
             "status": "Cancelled",
             "name": "Catrina",
             "total": 40,
-            "date": "04/05/2017"
+            "date": "04/05/2019"
+        }
+    ],
+    "details": [
+        {
+            "id": 1,
+            "pricing": 100,
+            "startDate": "04/10/2019",
+            "endDate": "04/15/2019",
+            "observations": "I will take my pet to the beach house. One of the visitors needs to leave 1 day before"
         }
     ]
 }
